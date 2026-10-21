@@ -3,7 +3,7 @@
 
 # ¡Hola! Soy Jose 👋
 
-Estudiante de **ASIR** y aprendiendo programación poco a poco.
+Estudiante de ASIR, ampliando conocimientos en sistemas, bases de datos y programación.
 
 ## Sobre mí
 
