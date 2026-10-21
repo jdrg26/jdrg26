@@ -4,6 +4,6 @@ Sobre mi:
 
 Mis intereses son;
 
-Aprender a programaren Python
+Aprender a programar en Python
 
 Utilizar los conocimientos aprendidos en el G.S ASIR
