@@ -14,7 +14,7 @@ Estudiante de ASIR, ampliando conocimientos en sistemas, bases de datos y progra
 
 ## Proyectos
 
-Actualmente estoy trabajando en proyectos relacionados con:
+Actualmente estoy aprendiendo y practicando con
 
 - Aplicaciones para estudiantes
 - Automatización con scripts
